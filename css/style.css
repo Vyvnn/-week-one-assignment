@@ -1,9 +1,10 @@
-h1{font-style: normal;
+h1 {font-style: normal;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
-    
+    color: brown;
+
 
 }
-body{background-color: beige;
+body {background-color: beige;
 
 }
