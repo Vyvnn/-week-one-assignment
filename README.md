@@ -24,9 +24,9 @@ This is a project about the biography of Vivian, the purpose and usage of the pr
 
 - This is a great place to be, to learn more on Diana
 
-- You will learn on Diana's Background including education, job experience etc.
+- You will learn on Vivian's Background including education, job experience etc.
 
-- You will learn on Diana's reason for doing the course.
+- You will learn on Vivian's reason for doing the course.
 
 - The project is easy-to-understand
 

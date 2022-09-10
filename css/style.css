@@ -2,9 +2,13 @@ h1 {font-style: normal;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
     color: brown;
-
-
 }
-body {background-color: beige;
+body {background-image: url("../images/nature.jpg");
+      background-repeat: no-repeat;
+      background-size: 100% 100% ;
+
+
+} 
+ul {
 
 }
