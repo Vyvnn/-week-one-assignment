@@ -4,17 +4,22 @@ h1 {font-style: normal;
     color: brown;
     text-decoration-line: underline;
 }
+
 body {background-image: url("../images/nature.jpg");
       background-repeat: no-repeat;
       background-size: 100% 100% ;
-
-
 } 
+
 h2 {font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: goldenrod;
     font-style: inherit;
     text-decoration: underline;
     font-size: medium;
+    text-decoration: underline;
+}
 
-
+h6 {font-style: oblique;
+    font-size:  30px; 
+    color: goldenrod;
+    text-decoration: underline;
 }
