@@ -5,7 +5,7 @@ h1 {font-style: normal;
     text-decoration-line: underline;
 }
 
-body {background-image: url("../images/nature.jpg");
+body {background-image: url("../image/nature.jpg");
       background-repeat: no-repeat;
       background-size: 100% 100% ;
 } 
@@ -23,3 +23,8 @@ h6 {font-style: oblique;
     color: goldenrod;
     text-decoration: underline;
 }
+Img {circled border-radius;50% ;
+
+}
+
+
