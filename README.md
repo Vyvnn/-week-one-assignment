@@ -58,11 +58,9 @@ There are no known bugs on this project.
 
 ## Support and contact details
 
- 
-
  - Email: vivyan3@gmail.com 
- - Contact : 0710437281
- 
+ - Phone no: 0710437281
+
  
 
 ### License
