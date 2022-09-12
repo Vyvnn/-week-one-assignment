@@ -34,7 +34,7 @@ This is a project about the biography of Vivian, the purpose and usage of the pr
 
  ## Live link
 
-* https://vyvnn.github.io/week-one-assignment/
+- https://vyvnn.github.io/week-one-assignment/
 
 
 
@@ -50,9 +50,9 @@ There are no known bugs on this project.
 
 ## Technologies Used
 
-* HTML
-* CSS
-* VISUAL STUDIO CODE
+- HTML
+- CSS
+- VISUAL STUDIO CODE
 
  
 
@@ -60,8 +60,8 @@ There are no known bugs on this project.
 
  
 
- * Email: vivyan3@gmail.com 
- * Contact : 0710437281
+ - Email: vivyan3@gmail.com 
+ - Contact : 0710437281
  
  
 
