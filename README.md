@@ -32,6 +32,12 @@ This is a project about the biography of Vivian, the purpose and usage of the pr
 
 - Just click on the hyperlinks that will direct you to view Github projects.
 
+ Live link
+
+* https://vyvnn.github.io/week-one-assignment/
+
+
+
  
 
 ## Known Bugs
@@ -44,9 +50,7 @@ There are no known bugs on this project.
 
 ## Technologies Used
 
- 
-
-Languages used include HTML and CSS. I have used editor Visual Studio Code for creating the app and Git Bash terminal for coding.
+ LHTML and CSS. I have used editor Visual Studio Code for creating the app and Git Bash terminal for coding.
 
  
 
@@ -54,8 +58,9 @@ Languages used include HTML and CSS. I have used editor Visual Studio Code for c
 
  
 
-If you need any assistance on any issues or have questions, ideas or concerns. Kindly contact me through email: vivyan3@gmail.com to make a contribution to the code or for any assistance on the app/project.
-
+ Email: vivyan3@gmail.com 
+ Contact : 0710437281
+ 
  
 
 ### License
