@@ -2,7 +2,7 @@
 
  
 
-#### This project is about the biography of Vivian, Version Date: 9th Sept 2022
+#### This project is about the biography of Vivian, Version Date: 16th Sept 2022
 
  
 
@@ -32,7 +32,7 @@ This is a project about the biography of Vivian, the purpose and usage of the pr
 
 - Just click on the hyperlinks that will direct you to view Github projects.
 
- Live link
+ ## Live link
 
 * https://vyvnn.github.io/week-one-assignment/
 
@@ -50,7 +50,9 @@ There are no known bugs on this project.
 
 ## Technologies Used
 
- LHTML and CSS. I have used editor Visual Studio Code for creating the app and Git Bash terminal for coding.
+* HTML
+* CSS
+* VISUAL STUDIO CODE
 
  
 
@@ -58,8 +60,8 @@ There are no known bugs on this project.
 
  
 
- Email: vivyan3@gmail.com 
- Contact : 0710437281
+ * Email: vivyan3@gmail.com 
+ * Contact : 0710437281
  
  
 
