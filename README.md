@@ -44,17 +44,18 @@ There are no known bugs on this project.
 
 ## Technologies Used
 
- 
 
-Languages used include HTML and CSS. I have used editor Visual Studio Code for creating the app and Git Bash terminal for coding.
+HTML 
+CSS 
+Visual Studio Code 
 
  
 
 ## Support and contact details
 
  
-
-If you need any assistance on any issues or have questions, ideas or concerns. Kindly contact me through email: vivyan3@gmail.com to make a contribution to the code or for any assistance on the app/project.
+ Email: vivyan3@gmail.com 
+ Phone no: 0710437281
 
  
 
