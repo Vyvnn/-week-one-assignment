@@ -1,28 +1,22 @@
-h1 {font-style: inherit;
+h1,h2,h6 {font-style: inherit;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
     color: brown;
     text-decoration-line: underline;
+    font-size: large;
 }
 
 body {background-image: url("../image/nature.jpg");
       background-repeat: no-repeat;
-      background-size: 100% 100% ;
+      background-size: 100% 100%;
+      display:flex;
+      flex-direction: row;
+      align-items:flex-start ;
+      background-position: fixed;
+      overflow: scroll;
+
 } 
 
-h2 {font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: goldenrod;
-    font-style: inherit;
-    text-decoration: underline;
-    font-size: medium;
-    text-decoration: underline;
-}
-
-h6 {font-style: oblique;
-    font-size:  20px; 
-    color: goldenrod;
-    text-decoration: underline;
-}
 
 .Contact-me {color: brown;
     font-weight: bold;
@@ -35,6 +29,22 @@ h6 {font-style: oblique;
 div {display: inline-block
 
 
+}
+
+#pic {
+   
+    position: sticky;
+    top: 0;
+    margin-right: 2%;
+    
+
+    }
+#mypic{
+        border-radius:50%
+    }
+#mybio{
+    display: flex;
+    flex-direction: column;
 }
 
 
