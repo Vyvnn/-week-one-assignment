@@ -22,7 +22,7 @@ This is a project about the biography of Vivian, the purpose and usage of the pr
 
  
 
-- This is a great place to be, to learn more on Diana
+- This is a great place to be, to learn more on Vivian
 
 - You will learn on Vivian's Background including education, job experience etc.
 
